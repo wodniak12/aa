@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uCN71eUPFnnjmDSaUZLdZWNplF1O0E5eTcKCnCrMPT+exqWgiCvttin2jL2UaxiDgthU7rzHbmLsgYZiMAyTOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kwojt\\OneDrive\\Dokumenty\\kalkulator\\KalkulatorIP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kwojt\\.nuget\\packages\\ipnetwork2\\2.5.292\\ipnetwork2.2.5.292.nupkg.sha512",
+    "C:\\Users\\kwojt\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
